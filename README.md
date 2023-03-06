@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I will practice building a website. By the end of the project I will have demonstrated my ability to implement HTML code in the construction of a simple but fully functional website. 
