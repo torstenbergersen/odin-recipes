@@ -1,0 +1,19 @@
+#header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    color: rgb(103, 119, 114);
+    background-color: antiquewhite;
+}
+
+.centered-list {
+    text-align: left;
+    list-style-position: inside;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 
+}
